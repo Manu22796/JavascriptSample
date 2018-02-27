@@ -4,7 +4,7 @@
   "description": "Simple app for testing",
   "main": "app.js",
   "scripts": {
-    "test": "mocha || true"
+    "test": "mocha"
   },
   "author": "Manu Sharma",
   "license": "ISC",
